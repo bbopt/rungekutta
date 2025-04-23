@@ -2,7 +2,7 @@
 
 **RUNGE-KUTTA** is the blackbox optimization problem described in the
 [DFO/BBO book of Audet and
-hare](https://link.springer.com/book/10.1007/978-3-319-68913-5).
+Hare](https://link.springer.com/book/10.1007/978-3-319-68913-5).
 
 
 The problem was originaly described in the followind [reference](http://dx.doi.org/10.1504/IJMMNO.2018.088992).
